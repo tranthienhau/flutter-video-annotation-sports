@@ -16,7 +16,7 @@ class LiveScoresApp extends StatelessWidget {
           primary: Color(0xFF22C55E),
           surface: Color(0xFF1A1F29),
         ),
-        cardTheme: CardTheme(
+        cardTheme: CardThemeData(
           color: const Color(0xFF1A1F29),
           elevation: 0,
           shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
