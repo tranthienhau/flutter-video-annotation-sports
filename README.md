@@ -2,6 +2,16 @@
 
 Flutter POC for a live football score app. Match list, live scores, match details, event timeline, and real-time streaming updates.
 
+## Demo
+
+Real iOS-Simulator captures from the running app (see [FLOW.md](FLOW.md) for how they were generated).
+
+| Match list | Match detail | Live feed |
+| --- | --- | --- |
+| ![Match list](screenshots/01-match-list.png) | ![Match detail](screenshots/02-match-detail.png) | ![Live feed](screenshots/03-live-feed.png) |
+
+![Demo](screenshots/demo.gif)
+
 ## Features
 
 - **Match list**: scheduled, live, finished grouped in single feed with league, teams, scores, and status chip (live minute, FT, or kickoff time)
